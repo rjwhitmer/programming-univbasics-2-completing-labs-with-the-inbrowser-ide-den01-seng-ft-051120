@@ -1,3 +1,3 @@
-solution = "Hello World"
+solution = "Hello World!"
 
 puts solution
